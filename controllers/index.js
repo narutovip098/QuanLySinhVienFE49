@@ -259,3 +259,7 @@ var laySinhVienDiemCaoNhat = function(){
     console.log('userB','laySinhVienDiemCaoNhat')
 }
 
+var bungTay = function(){
+    console.log('userB','bungTay')
+}
+
