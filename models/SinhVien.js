@@ -55,3 +55,11 @@ var SinhVien = function() {
     }
 
 }
+
+var hienThiThongTin = function(){
+    console.log('userB')
+}
+
+var themChucNang = function(){
+    console.log('moiThem')
+}
