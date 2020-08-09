@@ -254,3 +254,8 @@ console.log('TAO Ở ĐÂY NÈ, AJAX axios ĐÓ!',axios);
 var sapXepSinhVien = function(){
     console.log('userA, sắp xếp sinh viên');
 }
+
+var laySinhVienDiemCaoNhat = function(){
+    console.log('userB','laySinhVienDiemCaoNhat')
+}
+
